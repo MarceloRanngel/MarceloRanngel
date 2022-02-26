@@ -17,8 +17,9 @@
 </div><br>
 
 **Estou aprendendo:** <br>
- <img align="center" alt="Logo-Kotlin" height="40" width="50" img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kotlin/kotlin-original.svg"/>
- <img align="center" alt="Logo-JavaScript" height="30" width="40" img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="Logo-Angular" height="40" width="50" img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-original.svg" />
- <img align="center" alt="Logo-java" height="40" width="50" img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg"/>
+<br>
+ <img align="center" alt="Logo-Kotlin"  img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+ <img align="center" alt="Logo-JavaScript"  img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img align="center" alt="Logo-Angular"  img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+ <img align="center" alt="Logo-java"  img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  
