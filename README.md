@@ -2,7 +2,7 @@
  
 - 🎓 Formado em Analise e Desenvolvimento do Sistemas
 - 🛠️ Atualmente estudando Kotlin focando em Desenvolvimento Android
-- ⚙️ Trabalhando atualmente no Suporte como Analista... tamo ai
+- ⚙️ Atualmente, estou procurando emprego como desenvolvedor
 - 📫 Achou algum projeto interessante? Chama no marcelo.rcs@icloud.com <br>
 <br>
 
