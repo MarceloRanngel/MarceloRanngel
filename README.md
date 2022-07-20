@@ -1,22 +1,44 @@
- ## 👋 Hey, Rangel aqui!
- 
-- 🎓 Formado em Analise e Desenvolvimento do Sistemas
-- 🛠️ Atualmente estudando Kotlin focando em Desenvolvimento Android
-- ⚙️ Atualmente, estou procurando emprego como desenvolvedor
-- 📫 Achou algum projeto interessante? Chama no marcelo.rcs@icloud.com <br>
-<br>
+ # 👋 Oi, Sou Rangel, Desenvolvedor Mobile Jr. (Ou quase, me contratem!)
 
-**Para conectar: <br>**
+ ## 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloranngel/)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rangel-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Rangel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rangel-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Rangel-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Rangel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rangel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rangel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
+&nbsp;
+<hr>
 
-<br>
-<div>
+ ## 👨🏻‍💻 &nbsp;Sobre Mim
+ &nbsp;
+- ⚙️ Atualmente, estou procurando emprego como **Desenvolvedor Android**
+- 🖥️ Faço Streams diariamente na <a href="https://twitch.tv/r4nngel">Twitch</a> compartilhando meus estudos.
+- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e Cursando a pós em Gestão de Projetos e Processos.
+<img align="right" alt="Rangel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
+&nbsp;
+<hr>
+
+## 📊 &nbsp;Stats
+<div><br>
+ <a href="https://github.com/marceloranngel">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloranngel&show_icons=true&theme=cobalt"/>
-</div><br>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloranngel&layout=compact&langs_count=7&theme=dracula"/>
+ </a>
+</div>
+&nbsp;
+<hr>
 
-**Atualmente estudando:** <br>
-<br>
- <img align="center" alt="Logo-Kotlin"  img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+## 👇 &nbsp;Sociais
+<div><br>
+  <a href="https://instagram.com/r4nngel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/r4nngel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcelo.rcs@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marceloranngel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
  
