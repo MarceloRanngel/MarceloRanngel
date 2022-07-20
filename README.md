@@ -13,7 +13,6 @@
 &nbsp;
 
  ## 👨🏻‍💻 &nbsp;Sobre Mim
- &nbsp;
 - ⚙️ Atualmente, estou procurando emprego como **Desenvolvedor Android**
 - 🖥️ Faço Streams diariamente na <a href="https://twitch.tv/r4nngel">Twitch</a> compartilhando meus estudos.
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e Cursando a pós em Gestão de Projetos e Processos.
