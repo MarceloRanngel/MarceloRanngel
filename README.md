@@ -1,8 +1,6 @@
- # 👋 Oi, Sou Rangel, Desenvolvedor Mobile Jr. (Ou quase, me contratem!)
- <hr>
+ # 👋 Oi, Sou Rangel, Desenvolvedor Mobile Jr.
 
  ## 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
- &nbsp;
 <div style="display: inline_block"><br>
   <img align="center" alt="Rangel-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Rangel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
