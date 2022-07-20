@@ -11,7 +11,6 @@
   <img align="center" alt="Rangel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 &nbsp;
-<hr>
 
  ## 👨🏻‍💻 &nbsp;Sobre Mim
  &nbsp;
@@ -20,7 +19,6 @@
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e Cursando a pós em Gestão de Projetos e Processos.
 <img align="right" alt="Rangel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
 &nbsp;
-<hr>
 
 ## 📊 &nbsp;Stats
 <div><br>
@@ -30,7 +28,6 @@
  </a>
 </div>
 &nbsp;
-<hr>
 
 ## 👇 &nbsp;Sociais
 <div><br>
