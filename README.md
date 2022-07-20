@@ -23,8 +23,8 @@
 ## 📊 &nbsp;Stats
 <div style="width:100%; display:flex;">
  <a href="https://github.com/marceloranngel">
- <img height="180em" align=top src="https://github-readme-stats.vercel.app/api?username=marceloranngel&show_icons=true&theme=cobalt"/>
- <img height="180em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloranngel&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=marceloranngel&show_icons=true&theme=cobalt"/>
+ <img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloranngel&layout=compact&langs_count=7&theme=dracula"/>
  </a>
 </div>
 &nbsp;
