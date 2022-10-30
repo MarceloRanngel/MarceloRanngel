@@ -1,5 +1,9 @@
- # 👋 Oi, Sou Rangel
- ![](https://komarev.com/ghpvc/?username=MarceloRanngel&label=Profile+Views&style=for-the-badge)
+ [![@r4nngel's Holopin board](https://holopin.me/r4nngel)](https://holopin.io/@r4nngel)
+  
+<div align="center">
+ <h1>👋 Oi, Sou Rangel<h1>
+ <img src="https://komarev.com/ghpvc/?username=MarceloRanngel&label=Profile+Views&style=for-the-badge">
+</div>
 
  ## 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
 <div style="display: inline_block"><br>
