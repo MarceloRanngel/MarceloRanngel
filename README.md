@@ -15,9 +15,9 @@
 &nbsp;
 
  ## 👨🏻‍💻 &nbsp;Sobre Mim
-- ⚙️ Atualmente, estou procurando emprego como **Desenvolvedor Android**
-- 🖥️ Faço Streams diariamente na <a href="https://twitch.tv/r4nngel">Twitch</a> compartilhando meus estudos.
-- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas e Cursando a pós em Gestão de Projetos e Processos.
+- ⚙️ Atualmente, estou explorando projetos com node.js
+- 🖥️ Faço Streams as vezes na <a href="https://twitch.tv/r4nngel">Twitch</a> compartilhando meus estudos.
+- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas pelo Senac.
 <img align="right" alt="Rangel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
 &nbsp;
 
